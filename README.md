@@ -26,6 +26,6 @@
 <h2 align="left">Connect with me</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ng%E1%BB%8Dc-vinh-nguy%E1%BB%85n-92787827a/">LinkedIn</a> •
   <a href="https://github.com/nguyennocvinh" target="_blank">GitHub</a>
 </p>
