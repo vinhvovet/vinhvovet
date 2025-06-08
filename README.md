@@ -5,7 +5,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  ✨ Creating bugs since 2004 (my birth year!)<br>
+  ✨  Passionate about clean and efficient code<br>
   📚 I'm currently learning advanced Flutter & Dart, C/C++, and OOP principles.<br>
   🎯 Goals: Build a cross-platform mobile app that integrates AI features.<br>
   🎲 Fun fact: I love playing guitar and can play a bit fingerstyle!!
